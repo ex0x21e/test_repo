@@ -31,3 +31,4 @@ git show -show commit
 git add . -add all catalog
 git reset file - cancel change
 
+mkdir .gitignore -ignore files in this folder
