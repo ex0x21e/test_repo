@@ -29,4 +29,5 @@ git show -show commit
 
 !git does not see empty folders
 git add . -add all catalog
-git reset file - exclude files
+git reset file - cancel change
+
