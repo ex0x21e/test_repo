@@ -1,3 +1,33 @@
+**********************CONFIG*****************************************
 
+/etc/gitconfig --system -settings for all users
+~/.gitconfig or ~/.config/git/config --global -settings for current user
+.git/config --local -settings for concrete repo
+
+git config --listt --show-origin --list path configurations
+
+*****************SET USER NAME AND PASSWORD*************************
+
+git config --global user.name "Your name"
+git config --global user.email "Your email"
+
+*****************HELP**********************************************
+git help command
+git help -a or -g 
+git help -h
+
+***********************CREATE REPO*********************************
+cd ~/.my_progect
+git init
+
+git add my_file -to track
+git commmit
+
+git show -show commit
+
+************************ADD FOLDER*******************************
+
+!git does not see empty folders
+git add . -add all catalog
 git reset file - cancel change
 >> .gitignore -ignore files in this folder
