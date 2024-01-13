@@ -29,7 +29,7 @@ git show -show commit
 
 !git does not see empty folders
 git add . -add all catalog
-
+git commit -m 'message' save commit to repo
 git reset file - cancel change
 >> .gitignore -ignore files in this folder
 
