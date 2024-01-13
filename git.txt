@@ -20,3 +20,11 @@ git help -h
 cd ~/.my_progect
 git init
 
+git add my_file -to track
+git commmit
+
+git show -show commit
+
+************************ADD FOLDER*******************************
+
+!git does not see empty folders
