@@ -4,7 +4,7 @@
 ~/.gitconfig or ~/.config/git/config --global -settings for current user
 .git/config --local -settings for concrete repo
 
-git config --listt --show-origin --list path configurations
+git config --list --show-origin --list path configurations
 
 *****************SET USER NAME AND PASSWORD*************************
 
