@@ -20,7 +20,7 @@ git help -h
 cd ~/.my_progect
 git init
 
-git add my_file -to track
+git add my_file -to track and update index
 git commmit
 
 git show -show commit
@@ -29,5 +29,7 @@ git show -show commit
 
 !git does not see empty folders
 git add . -add all catalog
+
 git reset file - cancel change
 >> .gitignore -ignore files in this folder
+
