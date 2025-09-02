@@ -5,3 +5,4 @@ const greet(hello) => {
 }
 mb = 1024;
 c = 0;
+e = 1;
