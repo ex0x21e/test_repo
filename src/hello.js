@@ -8,3 +8,5 @@ c = 0;
 e = 1;
 abc = "abc github";
 d = "d"
+
+const lol = 10;
