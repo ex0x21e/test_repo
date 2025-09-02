@@ -6,3 +6,4 @@ const greet(hello) => {
 mb = 1024;
 c = 0;
 e = 1;
+abc = "abc github";
